@@ -1,0 +1,154 @@
+body {
+  font-family: "Poppins";
+  font-weight: 700;
+  text-align: center;
+  color: #242526;
+}
+
+/* Navbar */
+#navbar {
+  color: #ebedf0;
+  background-color: #3F4147;
+  padding: 0 5%;
+
+}
+.container-fluid{
+  padding: 0 1rem;
+  text-align: right;
+}
+.navbar-nav{
+  padding: 0.8rem 0;
+}
+.navbar-toggler{
+  margin: 0.8rem 0
+}
+.nav-link{
+  margin: 0 1rem
+}
+
+/* Intro */
+#intro {
+  color: #ebedf0;
+  background-color: #242526;
+  padding: 10% 20% 5%;
+}
+.sayhi {
+  color: #3578e5;
+  letter-spacing: 0.3rem;
+  font-size: 1rem;
+}
+.job {
+  letter-spacing: 0.2rem;
+  font-size: 1rem;
+}
+.button {
+  background: transparent;
+  border: 0.2rem solid rgba(53, 120, 229, 0.3);
+  padding: 1rem 1.8rem;
+  color: #ebedf0;
+  text-decoration: none;
+  letter-spacing: 0.2rem;
+  font-size: 0.8rem;
+  display: inline-block;
+  margin: 3rem auto 2rem;
+}
+.button:hover {
+  border-color: #3578e5;
+  color: #ebedf0;
+}
+.fa {
+  color: #ebedf0;
+}
+.fa:hover {
+  color: #3578e5;
+}
+.list-inline-item {
+  margin: auto 1.3rem;
+}
+
+/* About */
+h6 {
+  margin: 0;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+p {
+  margin: 0;
+  color: #888888;
+  font-weight: 400;
+}
+#about {
+  padding: 7% 7% 10%;
+  text-align: left;
+}
+.heading-about {
+  margin: 2% 0 7%;
+}
+.title-about {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  color: #3578e5;
+}
+.profile-item {
+  margin: 1.2rem 0 0;
+  font-size: 0.9rem;
+}
+.skills-item {
+  margin: 1.5rem 0 2rem;
+  font-size: 0.9rem;
+}
+.profile {
+  letter-spacing: 0.1rem;
+}
+.col-about {
+  margin: 3% 0 0;
+}
+.progress {
+  height: 6px;
+  background-color: #a1a1a1;
+  border-radius: 0;
+}
+.progress-bar {
+  background-color: #242526;
+}
+.project {
+  margin: 7% auto 3%;
+}
+
+/* Contact */
+#contact {
+  background-color: #242526;
+  color: #ebedf0;
+  padding: 3% 0;
+}
+.contact-title {
+  letter-spacing: 0;
+  line-height: 3;
+  color: #3578e5;
+}
+.contact-detail {
+  font-size: 0.9rem;
+}
+.col-contact {
+  margin: 4% 0;
+}
+.copyright {
+  font-size: 0.9rem;
+  margin-top: 3%;
+  color: #ebedf0;
+}
+
+/* Font Style */
+.regular {
+  font-weight: 400;
+}
+.medium {
+  font-weight: 500;
+}
+.semi-bold {
+  font-weight: 600;
+}
+.bold {
+  font-weight: 700;
+}
